@@ -1,5 +1,5 @@
 # First evaluation of resistance to both a California OsHV-1 variant and a French OsHV-1 microvariant in Pacific oysters
-This repository contains the phenotypic and pedigree data and code used in an upcoming paper in the BMC Genetics.
+This repository contains the phenotypic and pedigree data and code used in an upcoming paper in BMC Genetics.
 
 Repository overview:
 * Analysis.R - R code to run the genetic analyses presented in the paper.
